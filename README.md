@@ -47,7 +47,7 @@ How to use:
 - Recommended in shell of google...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/dandiers/FzDDoS
+git clone https://github.com/dandiers/FzDDoS.git
 cd FzDDoS
 npm i requests
 npm i https-proxy-agent
