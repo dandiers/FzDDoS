@@ -23,11 +23,10 @@
  - DONT RESELL THIS TOOLS! 
 
 # Tree
-* [Read now pls](#README)
 * [Info](#Info)
 * [Setup](#Setup)
 * [Credits](#Credits)
-* [T.O.S](#TOS)
+* [Rules](#TOS)
 * [Contact](#Contact)
 
 # README ♥️
