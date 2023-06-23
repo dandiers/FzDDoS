@@ -87,5 +87,5 @@ remember: you are responsible for the attacks since this tool was created for ed
 # CONTACT:
 ```sh
 Telegram: @mrd4nd
-Discord: zxcr9999#1770
+Discord: dandier#1121
 ```
