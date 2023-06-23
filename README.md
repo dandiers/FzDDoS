@@ -9,7 +9,7 @@
  
 </p>
 
-> Usage: python3 fzdc2.py verify<br>
+> Usage: python3 fzdc2.py<br>
 <p align="center">  <a href="https://t.me/realzer0hub"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
@@ -97,7 +97,7 @@ dandier (Make some power and added some methods.-.)
 feng (Example Panel and L4, L7 methods <3)
 ```
 
-# TOS:
+# Rules:
 ```sh
 Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
 the creator is not responsible for the damage caused by the attacks. 
