@@ -9,8 +9,7 @@
  
 </p>
 
-> Username: botnet<br>
-> Password: botnet<br>
+> Usage: python3 fzdc2.py verify<br>
 <p align="center">  <a href="https://t.me/realzer0hub"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
@@ -36,7 +35,7 @@ Thank you for using, please help me press a star button, thank you very much.<br
 One star = continuously updating multiple methods
 
 # Info
-- [x] Open Source
+- [x] Premium
 - [x] Powerful
 - [x] Simple
 - [x] Methods for Layer 4 and 7
@@ -66,11 +65,11 @@ sudo apt-get install nodejs -y
 sudo apt-get install npm -y
 
 How to use: 
-- Recommended in shell of google, azure,...
+- Recommended in shell of google...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/FzDTeam/FzDDoSS
-cd FzDDoSS/
+git clone https://github.com/dandiers/FzDDoS
+cd FzDDoS
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
@@ -95,15 +94,8 @@ python3 fzdc2.py
 
 # Credits
 ```sh
-zxcr9999 (Reworked CnC and added some methods .-.)
-SkyWtkhIsBack (Example Panel and L7 methods <3)
-Empfaked (Layer 7 methods <3)
-HyukIsBack (Layer 7 methods <3)
-im-federal (Layer 4 and AMP methods <3)
-R00tS3C (Layer 4 and AMP methods <3)
-forkyyy (LAYER 7 METHODS <3)
-Leeon123 (SPECIAL METHODS <3)
-TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
+dandier (Make some power and added some methods.-.)
+feng (Example Panel and L4, L7 methods <3)
 ```
 
 # TOS:
@@ -115,6 +107,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
+Telegram: @mrd4nd
 Discord: zxcr9999#1770
 ```
