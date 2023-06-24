@@ -62,6 +62,7 @@ npm i cluster
 npm i cloudflare-bypasser
 npm i http http2 crypto tls
 pip3 install -r requirements.txt
+wget https://github.com/MHProDev/PyRoxy.git 
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
 sudo apt -y install nodejs
