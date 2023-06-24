@@ -49,6 +49,8 @@ How to use:
 git clone https://github.com/dandiers/FzDDoS.git
 cd FzDDoS
 python3 fzdc2.py install
+python3 fzdc2.py verify
+python3 fzdc2.py
 ```
 
 # Credits
